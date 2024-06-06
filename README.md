@@ -2,7 +2,9 @@
 岡山でエンジニアをしています。しぇいみ[syeimee]です。学習用のレポジトリとして作成しました。
 
 I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repository for learning purposes.
-
+<br>
+<br>
+<br>
 
 
 
