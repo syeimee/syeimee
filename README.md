@@ -48,7 +48,8 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeimee&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syeimee&theme=2077)
+
 
 
 
