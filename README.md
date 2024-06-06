@@ -1,4 +1,4 @@
-## 自己紹介 Self-introduction
+# 自己紹介 Self-introduction
 
 岡山でエンジニアをしています。しぇいみ[syeimee]です。学習用のレポジトリとして作成しました。
 
@@ -6,13 +6,13 @@
 
 I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repository for learning purposes.
 
-## 使用技術一覧 List of Technologies Used
+# 使用技術一覧 List of Technologies Used
 
 
 
 <!-- シールド一覧 -->
 
-### フロントエンド言語 Front-end Language
+## フロントエンド言語 Front-end Language
 
 <p style="display: inline">
 
@@ -22,7 +22,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 
 
-### バックエンド言語 Back-end Language
+## バックエンド言語 Back-end Language
 
 <p style="display: inline">
 
@@ -34,7 +34,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 
 
-### バックエンドフレームワーク Back-end Framework
+## バックエンドフレームワーク Back-end Framework
 
 <p style="display: inline">
 
@@ -44,7 +44,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 
 
-### ミドルウェア Middleware
+## ミドルウェア Middleware
 
 <p style="display: inline">
 
@@ -56,7 +56,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 
 
-### インフラ Infrastructure
+## インフラ Infrastructure
 
 
 
@@ -74,7 +74,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 
 
-## ポートフォリオ Portfolio
+# ポートフォリオ Portfolio
 
 https://syeimee.com/
 
