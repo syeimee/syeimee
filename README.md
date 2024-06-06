@@ -8,13 +8,13 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 ## 使用技術一覧 List of Technologies Used
 
-### フロントエンド言語 Front-end Language
+◎ フロントエンド言語 Front-end Language
 <p style="display: inline">
   <img src="https://camo.qiitausercontent.com/a0136d9306acf9f316956fa391f9aa514b14727a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d463744463145">
 </p>
 <br>
 
-### バックエンド言語 Back-end Language
+◎ バックエンド言語 Back-end Language
 
 <p style="display: inline">
   <img src="https://camo.qiitausercontent.com/815b4bd43d5e5ba0bf116da6f5c2996abfa724d6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d527562792d4343333432442e7376673f6c6f676f3d72756279267374796c653d666f722d7468652d6261646765">
@@ -23,7 +23,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 <br>
 
 
-### バックエンドフレームワーク Back-end Framework
+◎ バックエンドフレームワーク Back-end Framework
 
 <p style="display: inline">
 
@@ -32,7 +32,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 <br>
 
 
-### ミドルウェア Middleware
+◎ ミドルウェア Middleware
 
 <p style="display: inline">
   <img src="https://camo.qiitausercontent.com/01ce7f13e49ffb3193222a9a53f69cb78f60561f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726573716c2d3333363739312e7376673f6c6f676f3d706f737467726573716c267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465">
@@ -41,7 +41,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 <br>
 
 
-### インフラ Infrastructure
+◎ インフラ Infrastructure
 <p style="display: inline">
 <img src="https://camo.qiitausercontent.com/11e97646e81c116c851923e0f45e6a6a8037f64c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3134383843362e7376673f6c6f676f3d646f636b6572267374796c653d666f722d7468652d6261646765">
 </p>
