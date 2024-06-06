@@ -47,6 +47,13 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 </p>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeimee
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 ## ポートフォリオ Portfolio
 https://syeimee.com/
 </div>
