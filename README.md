@@ -12,7 +12,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 <!-- シールド一覧 -->
 
-## フロントエンド言語 Front-end Language
+# フロントエンド言語 Front-end Language
 
 <p style="display: inline">
 
@@ -22,7 +22,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 
 
-## バックエンド言語 Back-end Language
+# バックエンド言語 Back-end Language
 
 <p style="display: inline">
 
@@ -34,7 +34,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 
 
-## バックエンドフレームワーク Back-end Framework
+# バックエンドフレームワーク Back-end Framework
 
 <p style="display: inline">
 
@@ -44,7 +44,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 
 
-## ミドルウェア Middleware
+# ミドルウェア Middleware
 
 <p style="display: inline">
 
@@ -56,7 +56,7 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 
 
 
-## インフラ Infrastructure
+# インフラ Infrastructure
 
 
 
