@@ -47,6 +47,6 @@ I work as an engineer in Okayama. My name is Shemy[syeimee]. I created this repo
 </p>
 <br>
 
-# ポートフォリオ Portfolio
+## ポートフォリオ Portfolio
 https://syeimee.com/
 </div>
