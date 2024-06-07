@@ -6,23 +6,17 @@
 ・In the future, I aspire to become a full-stack engineer. To that end, I have created a learning repository for both backend and frontend development.
 <br>
 <br>
-<br>
-<br>
 
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Let's%20running,%20choosing%20the%20windy%20day%20%20"></a>
 
 <br>
 <br>
-<br>
-<br>
 
 # My Status
-<br>
 <br>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syeimee&theme=2077)
 
-<br>
 <br>
 
 
@@ -31,14 +25,10 @@
 
 <br>
 <br>
-<br>
-<br>
 
 # Programming Languages, Frameworks and Tools
 <img src="https://skillicons.dev/icons?i=py,jquery,linux,threejs,unity,cs,wordpress,php,ruby,rails,js,java,spring,postgres,sqlite,html,css,git,github,docker,figma,vscode,blender" /> <br /><br />
 
-<br>
-<br>
 <br>
 <br>
 
@@ -46,13 +36,9 @@
 <img src="https://skillicons.dev/icons?i=rails,cs,js,py,php," /> <br /><br />
 <br>
 <br>
-<br>
-<br>
 
 # Portfolio:
 https://syeimee.com/
 
-<br>
-<br>
 <br>
 <br>
