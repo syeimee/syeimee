@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hi"></a>
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Let's keep running, choosing the windy days"></a>
 
 <br>
 <br>
@@ -17,12 +17,14 @@
 <br>
 
 # My Status
+<br>
+<br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syeimee&theme=2077)
 
 <br>
 <br>
-<br>
-<br>
+
 
 # My Best Languages, Frameworks, and Tools
 <img src="https://skillicons.dev/icons?i=ruby,rails,js,java,postgres,sqlite,html,css,github,docker,figma,vscode,blender" /> <br /><br />
