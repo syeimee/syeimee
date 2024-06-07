@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Let's keep running, choosing the windy days"></a>
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Let's keep running choosing the windy days"></a>
 
 <br>
 <br>
