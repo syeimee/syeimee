@@ -27,7 +27,7 @@
 <br>
 
 # Programming Languages, Frameworks and Tools
-<img src="https://skillicons.dev/icons?i=py,jquery,linux,threejs,unity,cs,wordpress,php,ruby,rails,js,java,spring,postgres,sqlite,html,css,git,github,docker,figma,vscode,blender" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=py,jquery,linux,threejs,unity,cs,wordpress,php,ruby,rails,js,java,spring,postgres,sqlite,html,css,git,github,docker,figma,vscode,blender,three,react" /> <br /><br />
 
 <br>
 <br>
