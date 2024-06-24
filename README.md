@@ -33,7 +33,7 @@
 <br>
 
 # NOW TRAINING
-<img src="https://skillicons.dev/icons?i=rails,cs,js,py,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=rails,cs,js,py,php,react" /> <br /><br />
 <br>
 <br>
 
